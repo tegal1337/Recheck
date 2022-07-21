@@ -12,8 +12,9 @@ Deep scan domain and find all possible domain  to takeover
 * [Demo]([https://youtu.be/fyrtHIs0vnI](https://www.youtube.com/watch?v=TxvH8B3srXI))
 * [Installation](#run--installation)
 * [Feature](#feature)
-* [Configuration](#configuration)
 
+# Example 
+![image](https://user-images.githubusercontent.com/31664438/180301953-2e06277e-6a03-4e55-b216-1b0fafcffb2b.png)
 
 
 
