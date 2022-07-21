@@ -41,8 +41,7 @@ How to run ?
 ## Requirements
 
  - Windows / Linux
- - Google Chrome
- - a Youtube account 
+ - NodeJS v10 or higher
 
 
 ## Donate
