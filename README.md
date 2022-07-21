@@ -9,7 +9,7 @@ Deep scan domain and find all possible domain  to takeover
     
 ## Quick Links
 
-* [Demo]([https://youtu.be/fyrtHIs0vnI](https://www.youtube.com/watch?v=TxvH8B3srXI))
+* [Demo](https://www.youtube.com/watch?v=TxvH8B3srXI)
 * [Installation](#run--installation)
 * [Feature](#feature)
 
