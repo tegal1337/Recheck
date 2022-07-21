@@ -1,0 +1,35 @@
+{
+  "dependencies": {
+    "cli-color": "^2.0.3",
+    "enquirer": "^2.3.6",
+    "node-fetch": "^2.6.7",
+    "urlencode": "^1.1.0"
+  },
+  "name": "recheck",
+  "version": "1.0.0",
+  "description": "Deepscan domain and find possible domain to takeover over dns",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tegal1337/Recheck.git"
+  },
+  "keywords": [
+    "reverse",
+    "ip",
+    "takeoverdomain"
+  ],
+  "author": "fdciabdul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tegal1337/Recheck/issues"
+  },
+  "homepage": "https://github.com/tegal1337/Recheck#readme"
+}
