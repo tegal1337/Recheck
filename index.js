@@ -38,7 +38,7 @@ async function start() {
         // write to file
         fs.appendFileSync(`./result/possible.txt`, `${res[i]}\n`, 'utf8');
       } else{
-        console.log(`${clc.blueBright(res[i]) + " : " + status} ${clc.bgRed(clc.whiteBright("is alive and doesn't possible to takeover"))}`);
+        console.log(`${clc.blueBright(res[i]) + " : " + status} ${clc.bgRed(clc.whiteBright("is alive and it's not possible to takeover"))}`);
       }
 
     } catch (error) {
